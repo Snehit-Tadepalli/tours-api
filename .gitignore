@@ -1,0 +1,7 @@
+node_modules
+.eslintrc.json
+.prettierrc
+*.env
+*.vscode
+public
+dev-data
